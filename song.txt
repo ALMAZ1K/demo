@@ -9,6 +9,7 @@ Because I'm easy come, easy go,
 Little high, little low,
 Any way the wind blows doesn't really matter to
 Me, to me
+<<<<<<< HEAD
 
 Mamaaa,
 Just killed a man,
@@ -37,3 +38,6 @@ Thunderbolts and lightning, very, very frightening me
 Galileo, Galileo
 Galileo, Galileo
 Galileo, Figaro - magnificoo
+=======
+++++++++++++++++++++++++++++++++++++++++++++++++
+>>>>>>> parent of e87f214 (Revert "Finish part")
